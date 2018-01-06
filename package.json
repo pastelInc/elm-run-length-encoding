@@ -1,0 +1,29 @@
+{
+  "name": "elm-run-length-encoding",
+  "version": "0.0.1",
+  "description": "[![CircleCI](https://circleci.com/gh/pastelInc/elm-run-length-encoding.svg?style=svg)](https://circleci.com/gh/pastelInc/elm-run-length-encoding)",
+  "main": "",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "elm:install": "elm-package install -y",
+    "elm:test": "elm-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pastelInc/elm-run-length-encoding.git"
+  },
+  "author": "pastelInc",
+  "license": "BSD3",
+  "bugs": {
+    "url": "https://github.com/pastelInc/elm-run-length-encoding/issues"
+  },
+  "homepage": "https://github.com/pastelInc/elm-run-length-encoding#readme",
+  "devDependencies": {
+    "elm-test": "0.18.12"
+  },
+  "dependencies": {
+    "elm": "0.18.0"
+  }
+}
